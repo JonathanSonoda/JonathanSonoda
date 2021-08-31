@@ -590,7 +590,7 @@ textarea {
 .pardeDeExplicacion {
   display: flex;
   justify-content: space-around;
-  height: 500px;
+  
 }
 
 .pardeDeExplicacion {
@@ -599,7 +599,7 @@ textarea {
 }
 .pardeDeExplicacion .explicacion {
   width: 900px;
-  height: 800px;
+  
 }
 .pardeDeExplicacion .tutorial {
   margin-top: 2%;
